@@ -1,0 +1,9 @@
+{
+  "id": 7, "name": "Thalassophobia", "generator": "ocean",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 8, "exit_label": "br.exit.7",
+  "swimming": true, "swim_cold_interval": 5, "swim_damage_interval": 20,
+  "supplies": true, "supply_chance": 0.25, "furniture": false,
+  "fog_radius": 7, "stress_interval": 25,
+  "wall_color": [73, 76, 78], "floor_color": [91, 83, 65], "ceiling_color": [35, 45, 58]
+}

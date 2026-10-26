@@ -1,0 +1,11 @@
+{
+  "generated_ranges": [
+    {
+      "first": 21,
+      "last": 100,
+      "profile_source": "game.level_catalog",
+      "geometry": "procedural-fallback",
+      "route": "sequential"
+    }
+  ]
+}

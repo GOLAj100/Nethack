@@ -1,0 +1,9 @@
+{
+  "id": 9, "name": "Darkened Suburbs", "generator": "suburbs",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 10, "exit_label": "br.exit.9",
+  "supplies": true, "supply_chance": 0.45, "furniture": true,
+  "fog_radius": 8, "stress_interval": 20,
+  "blackout_period": 37, "blackout_duration": 5,
+  "wall_color": [77, 86, 82], "floor_color": [54, 54, 58], "ceiling_color": [8, 11, 18]
+}

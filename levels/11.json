@@ -1,0 +1,8 @@
+{
+  "id": 11, "name": "Concrete Jungle", "generator": "city",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 12, "exit_label": "br.exit.11",
+  "supplies": true, "supply_chance": 0.5, "furniture": true,
+  "fog_radius": 11, "stress_interval": 45,
+  "wall_color": [91, 94, 98], "floor_color": [58, 59, 62], "ceiling_color": [25, 28, 33]
+}

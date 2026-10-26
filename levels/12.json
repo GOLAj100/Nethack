@@ -1,0 +1,8 @@
+{
+  "id": 12, "name": "The Well", "generator": "well",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 13, "exit_label": "br.exit.12",
+  "supplies": false, "furniture": true,
+  "fog_radius": 9, "stress_interval": 35,
+  "wall_color": [142, 143, 135], "floor_color": [76, 72, 68], "ceiling_color": [39, 42, 49]
+}

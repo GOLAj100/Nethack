@@ -1,0 +1,8 @@
+{
+  "id": 15, "name": "J. Barry Mental Asylum", "generator": "asylum",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 16, "exit_label": "br.exit.15",
+  "supplies": true, "supply_chance": 0.55, "furniture": true,
+  "fog_radius": 10, "stress_interval": 22,
+  "wall_color": [169, 181, 193], "floor_color": [104, 112, 120], "ceiling_color": [32, 36, 44]
+}

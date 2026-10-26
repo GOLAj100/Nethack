@@ -1,0 +1,7 @@
+{
+  "id": 20, "name": "Extraterrestre", "generator": "extraterrestrial",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": false, "supplies": true, "supply_chance": 0.25, "furniture": false,
+  "fog_radius": 10, "stress_interval": 18,
+  "wall_color": [56, 62, 81], "floor_color": [71, 67, 55], "ceiling_color": [9, 12, 22]
+}

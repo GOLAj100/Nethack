@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Runtime state
+crash.log
+save/slot*.json
+
+# Generated media caches
+sound_cache/
+
+# Local experiment screenshots
+artifacts/
+tests/shots/
+
+# Personal music library (large media, not part of the game code)
+Sound trak/

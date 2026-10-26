@@ -1,0 +1,7 @@
+{
+  "id": 4, "name": "The Abandoned Office", "generator": "office",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 5, "exit_label": "br.exit.4",
+  "supplies": true, "supply_chance": 1.0, "furniture": false,
+  "wall_color": [164, 181, 184], "floor_color": [80, 100, 119], "ceiling_color": [156, 160, 166]
+}

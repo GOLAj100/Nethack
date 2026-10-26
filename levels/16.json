@@ -1,0 +1,9 @@
+{
+  "id": 16, "name": "Abandoned Carrier", "generator": "carrier",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 17, "exit_label": "br.exit.16",
+  "swimming": true, "swim_cold_interval": 0, "swim_damage_interval": 0,
+  "supplies": true, "supply_chance": 0.35, "furniture": false,
+  "fog_radius": 8, "stress_interval": 20,
+  "wall_color": [125, 132, 135], "floor_color": [67, 70, 70], "ceiling_color": [22, 25, 29]
+}

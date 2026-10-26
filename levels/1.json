@@ -1,0 +1,8 @@
+{
+  "id": 1, "name": "Parking Zone", "generator": "parking",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 2, "exit_label": "br.exit.1", "noclip_target": 4,
+  "supplies": true, "supply_chance": 0.8, "furniture": false,
+  "fog_radius": 9, "blackout_period": 100, "blackout_duration": 20,
+  "wall_color": [145, 148, 145], "floor_color": [93, 97, 95], "ceiling_color": [75, 78, 77]
+}

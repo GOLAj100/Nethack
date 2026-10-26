@@ -1,0 +1,9 @@
+{
+  "id": 13, "name": "Collectors", "generator": "sewer",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 14, "exit_label": "br.exit.13",
+  "swimming": true, "swim_cold_interval": 0, "swim_damage_interval": 0,
+  "supplies": true, "supply_chance": 0.25, "furniture": false,
+  "fog_radius": 8, "stress_interval": 15,
+  "wall_color": [103, 76, 58], "floor_color": [58, 64, 53], "ceiling_color": [25, 24, 21]
+}

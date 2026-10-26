@@ -1,0 +1,7 @@
+{
+  "id": 2, "name": "Pipe Dreams", "generator": "pipes",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 3, "exit_label": "br.exit.2",
+  "supplies": true, "supply_chance": 0.12, "furniture": false, "heat_interval": 8,
+  "wall_color": [137, 113, 88], "floor_color": [85, 77, 65], "ceiling_color": [65, 60, 53]
+}

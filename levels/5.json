@@ -1,0 +1,7 @@
+{
+  "id": 5, "name": "Terror Hotel", "generator": "hotel",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 6, "exit_label": "br.exit.5",
+  "supplies": true, "supply_chance": 0.5, "furniture": false, "stress_interval": 30,
+  "wall_color": [157, 112, 73], "floor_color": [111, 44, 40], "ceiling_color": [100, 79, 63]
+}

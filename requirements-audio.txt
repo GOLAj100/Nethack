@@ -1,0 +1,2 @@
+# Optional offline MP4 -> OGG extraction, not needed during normal playback.
+imageio-ffmpeg>=0.6

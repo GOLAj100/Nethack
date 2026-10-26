@@ -1,0 +1,7 @@
+{
+  "id": 6, "name": "Lights Out", "generator": "tundra",
+  "chunk_size": [80, 50], "z_min": -1, "z_max": 0,
+  "exits": true, "next_level": 7, "exit_label": "br.exit.6", "supplies": false, "furniture": false,
+  "absolute_darkness": true, "stress_interval": 15,
+  "wall_color": [55, 57, 62], "floor_color": [57, 51, 35], "ceiling_color": [0, 0, 0]
+}

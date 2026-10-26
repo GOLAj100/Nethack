@@ -1,0 +1,15 @@
+{
+  "tile_size": 64,
+  "tiles": {
+    "@": "u0040.png",
+    "#": "u0023.png",
+    "█": "u2588.png",
+    "▓": "u2593.png",
+    "▒": "u2592.png",
+    ".": "u002e.png"
+  },
+  "native_symbols": [
+    "@"
+  ],
+  "sheet": "sheet.png"
+}

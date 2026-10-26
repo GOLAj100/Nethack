@@ -1,0 +1,7 @@
+{
+  "id": 3, "name": "Electrical Station", "generator": "electrical",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 4, "exit_label": "br.exit.3", "noclip_target": 6,
+  "supplies": true, "supply_chance": 0.3, "furniture": false, "heat_interval": 16,
+  "wall_color": [119, 98, 84], "floor_color": [79, 77, 74], "ceiling_color": [48, 50, 52]
+}

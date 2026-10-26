@@ -1,0 +1,9 @@
+{
+  "id": 8, "name": "Cave System", "generator": "cave",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 9, "exit_label": "br.exit.8",
+  "swimming": true, "swim_cold_interval": 4, "swim_damage_interval": 0,
+  "supplies": true, "supply_chance": 0.3, "furniture": false,
+  "fog_radius": 10, "stress_interval": 35,
+  "wall_color": [73, 72, 69], "floor_color": [49, 57, 55], "ceiling_color": [18, 20, 24]
+}

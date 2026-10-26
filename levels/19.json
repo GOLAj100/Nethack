@@ -1,0 +1,8 @@
+{
+  "id": 19, "name": "Aedificium", "generator": "flesh",
+  "chunk_size": [80, 50], "z_min": 0, "z_max": 0,
+  "exits": true, "next_level": 20, "exit_label": "br.exit.19",
+  "supplies": true, "supply_chance": 0.3, "furniture": true,
+  "absolute_darkness": true, "fog_radius": 6, "stress_interval": 12,
+  "wall_color": [178, 178, 172], "floor_color": [105, 104, 100], "ceiling_color": [4, 4, 7]
+}

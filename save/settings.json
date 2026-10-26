@@ -1,0 +1,413 @@
+{
+ "lang": "ru",
+ "sound": true,
+ "sleep_turns": 260,
+ "volume": 0.45,
+ "music_volume": 0.1,
+ "effects_volume": 1,
+ "ui_volume": 1,
+ "environment_volume": 1,
+ "alarm_volume": 1,
+ "window_scale": 1,
+ "fullscreen": false,
+ "backend": "opengl",
+ "adapter": "auto",
+ "sidebar_visible": false,
+ "resolution": [
+  1356,
+  1080
+ ],
+ "window_mode": "fixed",
+ "graphics": {
+  "mode": "ascii",
+  "quality": 2,
+  "lighting": true,
+  "fog": true,
+  "outlines": true,
+  "full_map": true,
+  "show_ceiling": true,
+  "single_layer": true,
+  "draw_distance": 52,
+  "pitch": -0.062000000000000506
+ },
+ "tileset": {
+  "enabled": false,
+  "auto_color": true,
+  "tile_size": 24,
+  "mod": "default"
+ },
+ "keys": {
+  "move_north": [
+   "w",
+   "up",
+   "[8]"
+  ],
+  "move_south": [
+   "s",
+   "down",
+   "[2]"
+  ],
+  "move_west": [
+   "a",
+   "left",
+   "[4]"
+  ],
+  "move_east": [
+   "d",
+   "right",
+   "[6]"
+  ],
+  "move_nw": [
+   "[7]"
+  ],
+  "move_ne": [
+   "[9]"
+  ],
+  "move_sw": [
+   "[1]"
+  ],
+  "move_se": [
+   "[3]"
+  ],
+  "wait": [
+   "space",
+   "[5]"
+  ],
+  "rest": [
+   "r"
+  ],
+  "sleep": [
+   "shift+r"
+  ],
+  "descend": [],
+  "ascend": [],
+  "action_menu": [
+   "tab"
+  ],
+  "workshop": [
+   "f9"
+  ],
+  "interact": [
+   "e",
+   "return"
+  ],
+  "pickup": [],
+  "pickup_all": [],
+  "items_here": [],
+  "inventory": [
+   "i"
+  ],
+  "drop": [],
+  "eat": [],
+  "quaff": [],
+  "read": [],
+  "wield": [],
+  "swap_weapon": [
+   "x"
+  ],
+  "wear": [],
+  "takeoff": [],
+  "force_fight": [],
+  "fire": [],
+  "zap": [],
+  "throw": [],
+  "pick_lock": [],
+  "toggle_status": [
+   "f10"
+  ],
+  "passages": [
+   "f1"
+  ],
+  "map_toggle": [],
+  "lights": [],
+  "rotate_left": [],
+  "rotate_right": [],
+  "char_sheet": [],
+  "help": [
+   "/"
+  ],
+  "save": [
+   "shift+s"
+  ],
+  "save_quit": [
+   "shift+q"
+  ],
+  "settings": [
+   "f2"
+  ],
+  "lang_toggle": [
+   "f3"
+  ],
+  "sound_toggle": [
+   "f4"
+  ]
+ },
+ "control_preset": "newcomer",
+ "control_profiles": {
+  "classic": {
+   "move_north": [
+    "w",
+    "k",
+    "up",
+    "[8]"
+   ],
+   "move_south": [
+    "s",
+    "j",
+    "down",
+    "[2]"
+   ],
+   "move_west": [
+    "a",
+    "h",
+    "left",
+    "[4]"
+   ],
+   "move_east": [
+    "d",
+    "l",
+    "right",
+    "[6]"
+   ],
+   "move_nw": [
+    "y",
+    "[7]"
+   ],
+   "move_ne": [
+    "u",
+    "[9]"
+   ],
+   "move_sw": [
+    "b",
+    "[1]"
+   ],
+   "move_se": [
+    "n",
+    "[3]"
+   ],
+   "wait": [
+    ".",
+    "space",
+    "[5]"
+   ],
+   "rest": [
+    "shift+b"
+   ],
+   "sleep": [
+    "shift+r"
+   ],
+   "descend": [
+    ">"
+   ],
+   "ascend": [
+    "<"
+   ],
+   "action_menu": [
+    "tab"
+   ],
+   "workshop": [
+    "f9"
+   ],
+   "interact": [
+    "return"
+   ],
+   "pickup": [
+    "g"
+   ],
+   "pickup_all": [
+    ","
+   ],
+   "items_here": [
+    "p"
+   ],
+   "inventory": [
+    "i"
+   ],
+   "drop": [
+    "shift+d"
+   ],
+   "eat": [
+    "e"
+   ],
+   "quaff": [
+    "q"
+   ],
+   "read": [
+    "r"
+   ],
+   "wield": [
+    "x"
+   ],
+   "swap_weapon": [
+    "shift+x"
+   ],
+   "wear": [
+    "shift+w"
+   ],
+   "takeoff": [
+    "shift+t"
+   ],
+   "force_fight": [
+    "shift+f"
+   ],
+   "fire": [
+    "f"
+   ],
+   "zap": [
+    "z"
+   ],
+   "throw": [
+    "t"
+   ],
+   "pick_lock": [
+    "shift+p"
+   ],
+   "toggle_status": [
+    "f10"
+   ],
+   "passages": [
+    "f1"
+   ],
+   "map_toggle": [
+    "m",
+    "o"
+   ],
+   "lights": [
+    "shift+l"
+   ],
+   "rotate_left": [
+    "["
+   ],
+   "rotate_right": [
+    "]"
+   ],
+   "char_sheet": [
+    "c"
+   ],
+   "help": [
+    "/"
+   ],
+   "save": [
+    "shift+s"
+   ],
+   "save_quit": [
+    "shift+q"
+   ],
+   "settings": [
+    "f2"
+   ],
+   "lang_toggle": [
+    "f3"
+   ],
+   "sound_toggle": [
+    "f4"
+   ]
+  },
+  "newcomer": {
+   "move_north": [
+    "w",
+    "up",
+    "[8]"
+   ],
+   "move_south": [
+    "s",
+    "down",
+    "[2]"
+   ],
+   "move_west": [
+    "a",
+    "left",
+    "[4]"
+   ],
+   "move_east": [
+    "d",
+    "right",
+    "[6]"
+   ],
+   "move_nw": [
+    "[7]"
+   ],
+   "move_ne": [
+    "[9]"
+   ],
+   "move_sw": [
+    "[1]"
+   ],
+   "move_se": [
+    "[3]"
+   ],
+   "wait": [
+    "space",
+    "[5]"
+   ],
+   "rest": [
+    "r"
+   ],
+   "sleep": [
+    "shift+r"
+   ],
+   "descend": [],
+   "ascend": [],
+   "action_menu": [
+    "tab"
+   ],
+   "workshop": [
+    "f9"
+   ],
+   "interact": [
+    "e",
+    "return"
+   ],
+   "pickup": [],
+   "pickup_all": [],
+   "items_here": [],
+   "inventory": [
+    "i"
+   ],
+   "drop": [],
+   "eat": [],
+   "quaff": [],
+   "read": [],
+   "wield": [],
+   "swap_weapon": [
+    "x"
+   ],
+   "wear": [],
+   "takeoff": [],
+   "force_fight": [],
+   "fire": [],
+   "zap": [],
+   "throw": [],
+   "pick_lock": [],
+   "toggle_status": [
+    "f10"
+   ],
+   "passages": [
+    "f1"
+   ],
+   "map_toggle": [],
+   "lights": [],
+   "rotate_left": [],
+   "rotate_right": [],
+   "char_sheet": [],
+   "help": [
+    "/"
+   ],
+   "save": [
+    "shift+s"
+   ],
+   "save_quit": [
+    "shift+q"
+   ],
+   "settings": [
+    "f2"
+   ],
+   "lang_toggle": [
+    "f3"
+   ],
+   "sound_toggle": [
+    "f4"
+   ]
+  }
+ }
+}
